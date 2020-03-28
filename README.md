@@ -10,7 +10,7 @@ Minha intenção com esse projeto é além de aplicar os conhecimentos adquirido
 
 Como dito acima, esse projeto apesar de ser todo baseado em JavaScript, utiliza três formas diferentes de build e de rodar o ambiente localmente, sendo assim, para conseguir iniciar qualquer alteração nesse projeto, é necessário ter instalado na sua máquina:
 
-*[Editor de texto (sugiro o VS Code;)](https://code.visualstudio.com/download)
+* [Editor de texto (sugiro o VS Code;)](https://code.visualstudio.com/download)
 * [Git;](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Node;](https://nodejs.org/en/download/)
 * [NPM;](https://nodejs.org/en/download/)
